@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saranshhalwai
 - 👀 I’m interested in python and java
 - 🌱 I’m currently learning both
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me discord:sars6#4865
+- 🙂 I’m looking to collaborate on github
+- 📫 How to reach me on discord:sars6#4865
 
 
 <!---

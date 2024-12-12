@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning both
 - 🙂 I’m looking to collaborate on github
-- 📫 How to reach me on discord:sars6#4865
 
 
 <!---

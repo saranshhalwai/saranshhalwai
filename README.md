@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saranshhalwai
-- 👀 I’m interested in Python and C++
+- 👀 I’m interested in Data Science and ML.
 - 🌱 I’m currently learning both
 - 🙂 I’m looking to collaborate on github
 

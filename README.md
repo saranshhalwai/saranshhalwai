@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saranshhalwai
-- 👀 I’m interested in Data Science and ML.
+- 👀 I’m interested in ML and WebDev.
 - 🌱 I’m currently learning both
-- 🙂 I’m looking to collaborate on github
+- 🙂 I’m looking to collaborate on GitHub
 
 
 <!---

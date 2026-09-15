@@ -24,7 +24,6 @@
       <ul>
         <li>🎓 I’m a pre-final year student at <strong>IIT Indore</strong>.</li>
         <li>🔭 I'm a versatile developer, building everything from modern web apps with <strong>Next.js & Node/Bun</strong> to training models with <strong>PyTorch</strong>.</li>
-        <li>💡 Featured Project: <strong>RL-colearning</strong> — A Pokémon Team Battle game built using Reinforcement Learning co-learning techniques.</li>
         <li>☁️ I have extensive experience deploying across <strong>GCP, Azure, Cloudflare, and Vercel</strong>.</li>
         <li>🐧 Fun fact: I use <strong>Arch Linux</strong> as my daily driver! <em>(btw)</em></li>
         <li>🌐 Check out my portfolio: <a href="https://saranshhalwai.me"><strong>saranshhalwai.me</strong></a></li>
@@ -35,6 +34,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/saranshhalwai/my-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhalwai&repo=my-website&theme=tokyonight&show_icons=true" alt="My Website Repo" />
+  </a>
+  <a href="https://github.com/saranshhalwai/RL-colearning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhalwai&repo=RL-colearning&theme=tokyonight&show_icons=true" alt="RL-colearning Repo" />
+  </a>
+</p>
 
 ---
 
@@ -56,14 +68,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=saranshhalwai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <br/><br/>
-  <a href="https://github.com/saranshhalwai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranshhalwai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/saranshhalwai">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshhalwai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>

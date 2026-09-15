@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I'm%20Saransh%20Halwai&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
-<h3 align="center">Pre-final year student at IIT Indore | Full Stack Developer | Web3 & AI Enthusiast</h3>
+<h3 align="center">Versatile Student Developer exploring modern tech stacks</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web3+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Cloud+%26+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,23 +19,18 @@
 
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="50%" align="left" style="border: none;">
+    <td width="55%" align="left" style="border: none;">
       <h2>👨‍💻 About Me</h2>
       <ul>
         <li>🎓 I’m a pre-final year student at <strong>IIT Indore</strong>.</li>
-        <li>🔭 I work across <strong>Full-Stack Web Development</strong>, <strong>Web3 / Smart Contracts</strong>, and <strong>Machine Learning</strong>.</li>
-        <li>💡 Some of my notable projects include:
-          <ul>
-            <li>A <strong>Decentralized Music Streaming</strong> app on the Sepolia testnet.</li>
-            <li>A <strong>Pokémon Team Battle</strong> game using RL co-learning techniques.</li>
-            <li><strong>Cgangafrontend</strong>: A full-stack geo-mapping application with RBAC.</li>
-          </ul>
-        </li>
+        <li>🔭 I'm a versatile developer, building everything from modern web apps with <strong>Next.js & Node/Bun</strong> to training models with <strong>PyTorch</strong>.</li>
+        <li>💡 Featured Project: <strong>RL-colearning</strong> — A Pokémon Team Battle game built using Reinforcement Learning co-learning techniques.</li>
+        <li>☁️ I have extensive experience deploying across <strong>GCP, Azure, Cloudflare, and Vercel</strong>.</li>
+        <li>🐧 Fun fact: I use <strong>Arch Linux</strong> as my daily driver! <em>(btw)</em></li>
         <li>🌐 Check out my portfolio: <a href="https://saranshhalwai.me"><strong>saranshhalwai.me</strong></a></li>
-        <li>💬 Ask me about <strong>TypeScript, Python, React, Next.js, or Solidity!</strong></li>
       </ul>
     </td>
-    <td width="50%" align="center" style="border: none;">
+    <td width="45%" align="center" style="border: none;">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding animation" />
     </td>
   </tr>
@@ -47,7 +42,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,solidity,pytorch,tensorflow,html,css,tailwind,postgres,docker,git,github,linux&perline=10" alt="Saransh's Tech Stack" />
+    <!-- Skills: TypeScript, React, Next.js, Node.js, Bun, FastAPI, PostgreSQL, PyTorch, C++ (DSA), Arch Linux, Cloudflare, Vercel, Azure, GCP, Git, GitHub -->
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,bun,fastapi,postgres,pytorch,cpp,arch,cloudflare,vercel,azure,gcp,git,github&perline=8" alt="Saransh's Tech Stack" />
   </a>
 </p>
 

@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I'm%20Saransh%20Halwai&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
-<h3 align="center">A passionate developer exploring new technologies and building cool stuff</h3>
+<h3 align="center">Pre-final year student at IIT Indore | Full Stack Developer | Web3 & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web3+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saranshhalwai" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://twitter.com/saranshhalwai" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://saranshhalwai.me" target="_blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" /></a>
+  <a href="https://linkedin.com/in/saransh-halwai" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://github.com/saranshhalwai" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 ---
@@ -22,13 +22,17 @@
     <td width="50%" align="left" style="border: none;">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>🔭 I’m currently working on <strong>exciting projects</strong></li>
-        <li>🌱 I’m currently learning <strong>new tech stacks</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>open-source</strong></li>
-        <li>🤔 I’m looking for help with <strong>advanced system design</strong></li>
-        <li>💬 Ask me about <strong>anything tech related</strong></li>
-        <li>📫 How to reach me: <a href="mailto:youremail@example.com"><strong>email</strong></a></li>
-        <li>⚡ Fun fact: <strong>I love coding and coffee! ☕</strong></li>
+        <li>🎓 I’m a pre-final year student at <strong>IIT Indore</strong>.</li>
+        <li>🔭 I work across <strong>Full-Stack Web Development</strong>, <strong>Web3 / Smart Contracts</strong>, and <strong>Machine Learning</strong>.</li>
+        <li>💡 Some of my notable projects include:
+          <ul>
+            <li>A <strong>Decentralized Music Streaming</strong> app on the Sepolia testnet.</li>
+            <li>A <strong>Pokémon Team Battle</strong> game using RL co-learning techniques.</li>
+            <li><strong>Cgangafrontend</strong>: A full-stack geo-mapping application with RBAC.</li>
+          </ul>
+        </li>
+        <li>🌐 Check out my portfolio: <a href="https://saranshhalwai.me"><strong>saranshhalwai.me</strong></a></li>
+        <li>💬 Ask me about <strong>TypeScript, Python, React, Next.js, or Solidity!</strong></li>
       </ul>
     </td>
     <td width="50%" align="center" style="border: none;">
@@ -43,8 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Customize the skills by modifying the i=... parameter -->
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,nextjs,html,css,tailwind,mongodb,postgres,docker,aws,git,github,linux,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,solidity,pytorch,tensorflow,html,css,tailwind,postgres,docker,git,github,linux&perline=10" alt="Saransh's Tech Stack" />
   </a>
 </p>
 
